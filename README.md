@@ -1,0 +1,2 @@
+# Test Driven Development (TDD)
+This repository has the solutions for [Project: Testing Practice](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice), for the objective of learning TDD and unit testing using Jest. Part of [The Odin Project's](https://www.theodinproject.com/) curriculum. 
